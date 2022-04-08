@@ -6,6 +6,9 @@ using System.IO;
 
 namespace LogFileAssign18Feb
 {
+    /// <summary>
+    /// Class for log file handling
+    /// </summary>
     internal class Func
     {
         internal bool MainMenu()
